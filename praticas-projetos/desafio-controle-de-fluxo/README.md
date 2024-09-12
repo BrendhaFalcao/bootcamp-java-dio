@@ -1,4 +1,4 @@
-# Obejetivo do programa
+# Objetivo do programa Contador
 
 - Programa recebe 2 parâmetros por input no terminal -> numeros inteiros
 - Obter a quantidade de iterações (for) entre esses 2 números e imprimir os números incrementados
